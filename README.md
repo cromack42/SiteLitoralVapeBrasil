@@ -1,2 +1,2 @@
-# SiteLitoralVapeBrasil
-Repositório para a versão BETA do site litoral vaper Brasil
+# Loja Virtual litoral VapeBrasil
+Repositório para a versão BETA da loja virtual litoral vaper Brasil
